@@ -129,4 +129,4 @@ const bestplaces = [
   },
 ];
 
-export default bestplaces;
+module.exports = bestplaces

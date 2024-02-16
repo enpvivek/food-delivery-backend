@@ -592,4 +592,4 @@ const restaurants = [
   },
 ];
 
-export default restaurants;
+module.exports = restaurants;

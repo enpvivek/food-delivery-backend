@@ -131,4 +131,4 @@ const nearby = [
   },
 ];
 
-export default nearby;
+module.exports = nearby;

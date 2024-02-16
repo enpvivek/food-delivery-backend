@@ -1308,4 +1308,4 @@ const restaurants2 = [
   },
 ];
 
-export default restaurants2;
+module.exports = restaurants2;

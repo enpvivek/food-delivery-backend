@@ -338,4 +338,4 @@ const suggestions = [
   },
 ];
 
-export default suggestions;
+module.exports = suggestions;
