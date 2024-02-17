@@ -11,9 +11,8 @@ This is the backend for a food delivery web application built using Express.js. 
 ## 🏆 Badges
 
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.ecma-international.org/ecma-262/6.0/)
+[![JavaScript](![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E))](https://www.ecma-international.org/ecma-262/6.0/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![ES6](https://img.shields.io/badge/ES6-latest-brightgreen)](https://www.ecma-international.org/ecma-262/6.0/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 
 ## 🚀 Key Features
