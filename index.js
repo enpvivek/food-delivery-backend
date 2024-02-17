@@ -38,7 +38,7 @@ app.get("/suggestions", (req, res) => {
   res.status(200).send(suggestions);
 });
 
-const port = process.env.PORT || 9001;
+const PORT = process.env.PORT || 9001;
 
 app.listen(PORT, () => {
   const url = `http://localhost:${PORT}`;
