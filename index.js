@@ -1,5 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
+const cors = require("cors");
 
 const bestPlaces = require("./data/bestplaces");
 const nearbyPlaces = require("./data/nearby");
@@ -9,6 +10,7 @@ const suggestions = require("./data/suggestions");
 const home = require("./data/home");
 
 const app = express();
+app.use(cors());
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
